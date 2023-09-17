@@ -58,6 +58,7 @@ when you're listening to music on various streaming websites.
    * Pocketcasts.com
    * Qobuz
    * Relax-Hub.com
+   * Rumble.com
    * Saavn.com
    * Showmax
    * Sirius XM Radio

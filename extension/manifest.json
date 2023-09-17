@@ -217,6 +217,10 @@
       "js": ["plugin-api.js","keysocket-qobuz.js"]
     },
     {
+    "matches": ["*://*.rumble.com/*"],
+      "js": ["plugin-api.js","keysocket-rumble.js"]
+    },
+    {
       "matches": ["*://*.saavn.com/*"],
       "js": ["plugin-api.js", "keysocket-saavn.js"]
     },
